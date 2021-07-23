@@ -1,0 +1,11 @@
+header {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.img_header {
+  width: 15%;
+  height: inherit;
+}
