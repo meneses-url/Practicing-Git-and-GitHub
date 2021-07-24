@@ -1,3 +1,9 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 header {
   width: 100%;
   height: auto;
@@ -15,4 +21,20 @@ main {
 
 li {
   list-style: none;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 36px 100px 31px 100px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+i {
+  padding-right: 38px;
 }
