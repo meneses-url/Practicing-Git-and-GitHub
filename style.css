@@ -9,3 +9,10 @@ header {
   width: 15%;
   height: inherit;
 }
+main {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
