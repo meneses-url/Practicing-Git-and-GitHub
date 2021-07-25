@@ -23,10 +23,10 @@ li {
   list-style: none;
 }
 
-footer {
+.socialMedia {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   margin: 36px 100px 31px 100px;
 }
@@ -34,7 +34,4 @@ footer {
 a {
   text-decoration: none;
   color: black;
-}
-i {
-  padding-right: 38px;
 }
