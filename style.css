@@ -25,6 +25,25 @@ main {
 li {
   list-style: none;
 }
+
+table {
+  width: 100%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
 footer {
   background-color: lightgoldenrodyellow;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.socialMedia {
+  display: flex;
+  justify-content: space-around;
 }
